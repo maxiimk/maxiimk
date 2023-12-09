@@ -7,9 +7,9 @@ Student
 I am currently a high school business student but i am really keen of computer science and coding.
 
 *   🌍  I'm based in Milan
-*   ✉️  You can contact me at [maxlialyk2005@gmail.com](mailto:maxlialyk2005@gmail.com)
 *   🧠  I'm learning Astro.js, Tailwind.js and Python
 *   ⚡  I love Fedora Linux
+*   ✉️  You can contact me at [maxlialyk2005@gmail.com](mailto:maxlialyk2005@gmail.com)
 
 ### Skills 
 <p align="left">
